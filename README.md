@@ -1,7 +1,7 @@
-# Companion Take All NG
+# Disable Companion Collision AE
 
-Companion Take All ported to FO4 1.10.984.0+.<br>
-Supports both the Next-Gen and Anniversary Editions of the Game.
+Disable Companion Collision Updated for Anniversary Editions.<br>
+Supports only the Anniversary Editions of the Game.
 
 ### Requirements
 * [XMake](https://xmake.io) [2.8.2+]
@@ -9,8 +9,8 @@ Supports both the Next-Gen and Anniversary Editions of the Game.
 
 ## Getting Started
 ```bat
-git clone --recurse-submodules https://github.com/TheGamerX20/CompanionTakeAllNG
-cd CompanionTakeAllNG
+git clone --recurse-submodules https://github.com/TheGamerX20/DisableCompanionCollisionAE
+cd DisableCompanionCollisionAE
 ```
 
 ### Build
